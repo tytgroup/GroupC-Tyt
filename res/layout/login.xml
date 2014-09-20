@@ -12,11 +12,7 @@
         android:orientation="vertical"
         >
 
-        <ImageView
-            android:id="@+id/imageView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/loginbg" />
+       
 
          <RelativeLayout
             android:id="@+id/login_layout"
@@ -24,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10.0dip"
             android:layout_marginRight="10.0dip"
-            android:layout_marginTop="20dip"
+            android:layout_marginTop="50dp"
             android:background="@color/white"
             android:focusable="true"
             android:focusableInTouchMode="true" >

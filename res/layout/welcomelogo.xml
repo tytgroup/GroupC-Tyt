@@ -20,7 +20,7 @@
         android:layout_height="150dp"
         android:layout_above="@+id/logo2"
         android:layout_alignLeft="@+id/imageView1"
-        android:layout_marginBottom="16dp"
+        android:layout_marginBottom="19dp"
         android:background="@drawable/logo1"
         android:contentDescription="@null" />
 
@@ -28,11 +28,8 @@
         android:id="@+id/logo2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/imageView1"
-        android:layout_alignParentLeft="true"
-        android:layout_marginBottom="140dp"
-        android:layout_marginLeft="60dp"
-        android:layout_marginRight="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
         android:background="@drawable/logo2"
         android:contentDescription="@null" />
 
